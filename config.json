@@ -1,0 +1,176 @@
+{
+    "database config": {
+        "name": "fatorylog.db",
+        "big table": {
+            "name": "manufacture_record",
+            "col0": "id",
+            "col1": "raw_a",
+            "col2": "raw_b",
+            "col3": "processed_a",
+            "col4": "processed_b",
+            "col5": "scrap_a",
+            "col6": "scrap_b",
+            "col7": "completed_a",
+            "col8": "completed_b",
+            "col9": "total_completed"
+        },
+        "small table": {
+            "name": "last_20_mins_record",
+            "col0": "id",
+            "col1": "raw_a",
+            "col2": "raw_b",
+            "col3": "processed_a",
+            "col4": "processed_b",
+            "col5": "scrap_a",
+            "col6": "scrap_b",
+            "col7": "completed_a",
+            "col8": "completed_b",
+            "col9": "total_completed"
+        }
+    },
+    "others": {
+        "video file name": "Course_Project_Model3.mp4",
+        "simulation speed": 80,
+        "small table update interval": 60,
+        "big table update interval": 1800,
+        "keys": {
+            "quit": 27,
+            "speed up": 102,
+            "speed down": 115,
+            "pause": 32
+        },
+        "generation": {
+            "defect rate": 0.1,
+            "days to be generated": 365,
+            "estimate raw input per min": 4
+        },
+        "colors": {
+            "yellow": {
+                "b": 0,
+                "g": 255,
+                "r": 255
+            },
+            "red": {
+                "b": 0,
+                "g": 0,
+                "r": 255
+            },
+            "blue": {
+                "b": 255,
+                "g": 0,
+                "r": 0
+            },
+            "green": {
+                "b": 0,
+                "g": 255,
+                "r": 0
+            },
+            "orange": {
+                "b": 165,
+                "g": 0,
+                "r": 255
+            },
+            "pink": {
+                "b": 192,
+                "g": 203,
+                "r": 255
+            },
+            "black": {
+                "b": 0,
+                "g": 0,
+                "r": 0
+            },
+            "white": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+            }
+        },
+        "hsv color limits": {
+            "yellow": {
+                "lower": {
+                    "h": 28,
+                    "s": 100,
+                    "v": 100
+                },
+                "upper": {
+                    "h": 34,
+                    "s": 255,
+                    "v": 255
+                }
+            },
+            "blue": {
+                "lower": {
+                    "h": 83,
+                    "s": 211,
+                    "v": 116
+                },
+                "upper": {
+                    "h": 168,
+                    "s": 255,
+                    "v": 255
+                }
+            },
+            "green": {
+                "lower": {
+                    "h": 39,
+                    "s": 93,
+                    "v": 69
+                },
+                "upper": {
+                    "h": 82,
+                    "s": 255,
+                    "v": 255
+                }
+            },
+            "red": {
+                "lower": {
+                    "h": 0,
+                    "s": 144,
+                    "v": 211
+                },
+                "upper": {
+                    "h": 180,
+                    "s": 255,
+                    "v": 255
+                }
+            },
+            "cyan": {
+                "lower": {
+                    "h": 65,
+                    "s": 56,
+                    "v": 51
+                },
+                "upper": {
+                    "h": 99,
+                    "s": 255,
+                    "v": 255
+                }
+            },
+            "pink": {
+                "lower": {
+                    "h": 144,
+                    "s": 72,
+                    "v": 86
+                },
+                "upper": {
+                    "h": 154,
+                    "s": 255,
+                    "v": 255
+                }
+            },
+            "orange": {
+                "lower": {
+                    "h": 4,
+                    "s": 135,
+                    "v": 118
+                },
+                "upper": {
+                    "h": 15,
+                    "s": 255,
+                    "v": 255
+                }
+            }
+        }
+    }
+}

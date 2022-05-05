@@ -42,10 +42,10 @@ color_green = (config['others']['colors']['green']['b'], config['others']
                ['colors']['green']['g'], config['others']['colors']['green']['r'])
 color_white = (config['others']['colors']['white']['b'], config['others']
                ['colors']['white']['g'], config['others']['colors']['white']['r'])
-color_orange = (config['others']['colors']['orange']['b'], config['others']
-                ['colors']['orange']['g'], config['others']['colors']['orange']['r'])
-color_pink = (config['others']['colors']['pink']['b'], config['others']
-              ['colors']['pink']['g'], config['others']['colors']['pink']['r'])
+color_pink = (config['others']['colors']['orange']['b'], config['others']
+              ['colors']['orange']['g'], config['others']['colors']['orange']['r'])
+color_orange = (config['others']['colors']['pink']['b'], config['others']
+                ['colors']['pink']['g'], config['others']['colors']['pink']['r'])
 color_black = (config['others']['colors']['black']['b'], config['others']
                ['colors']['black']['g'], config['others']['colors']['black']['r'])
 # endregion
