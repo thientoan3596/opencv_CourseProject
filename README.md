@@ -1,9 +1,9 @@
 # opencv_CourseProject
 
-Speed up: key <F>
-Speed down: key <S>
-Pause: key <Space>
-Quit: key <Esc>
+Speed up: key [F]
+Speed down: key [S]
+Pause: key [Space]
+Quit: key [Esc]
 
 For testing please download the sample data videos with link below and put in the same folder.
 
